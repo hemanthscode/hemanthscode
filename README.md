@@ -1,80 +1,46 @@
 <div align="center">
-  <!-- Header Banner -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Hemanth%20Sayimpu&fontColor=ffffff&textBg=false&reversal=false" alt="Header Banner" />
-
-  <!-- Typing Title -->
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&duration=3800&pause=900&color=ffffff&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;AI+Enthusiast;Open+Source+Contributor;Building+Scalable%2C+Delightful+Products" alt="Title Typing" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=300&color=0:00f0ff,100:ff00ff&text=Hemanth%20Sayimpu&fontColor=ffffff&textBg=false" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=28&duration=4000&pause=1200&color=ffffff&center=true&vCenter=true&width=900&lines=Full+Stack+Web+Developer;Python+Developer;Passionate+about+Clean+Code+%26+Scalable+Systems" alt="Typing Animation" />
 </div>
 
-<!-- Social Badges -->
-<p align="center">
-  <a href="https://linkedin.com/in/hemanthsayimpu" target="_blank">
-    <img alt="LinkedIn" height="36" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:hemanth.sayimpu@gmail.com" target="_blank">
-    <img alt="Email" height="36" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://hemanthscode.github.io/portfolio" target="_blank">
-    <img alt="Portfolio" height="36" src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/hemanthsayimpu" target="_blank">
-    <img alt="Instagram" height="36" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
-
 ---
+
+# <div align="center">🚀 Skills</div>
 
 <div align="center">
 
-<h2>👨‍💻 About Me</h2>
+| **Category** | **Technologies** |
+|--------------|------------------|
+| **Frontend** | <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb" /> <img src="https://img.shields.io/badge/Tailwind-0ea5e9?style=for-the-badge&logo=tailwindcss&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Vite-646cff?style=for-the-badge&logo=vite&logoColor=white" /> |
+| **Backend** | <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white" /> |
+| **Security & Auth** | <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" /> <img src="https://img.shields.io/badge/bcryptjs-3381FF?style=for-the-badge&logo=lock&logoColor=white" /> <img src="https://img.shields.io/badge/Helmet.js-4b5563?style=for-the-badge&logo=helmet&logoColor=white" /> |
+| **Data & Utilities** | <img src="https://img.shields.io/badge/Date--Fns-FF5A5F?style=for-the-badge&logo=javascript&logoColor=white" /> <img src="https://img.shields.io/badge/Zustand-18181b?style=for-the-badge&logo=zustand&logoColor=white" /> <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" /> |
+| **Tools** | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> |
 
-<p>
-  🚀 Passionate <b>Full Stack Web Developer & Python Developer</b><br>
-  🎯 Focused on <b>scalable web apps, APIs, and modern UI/UX</b><br>
-  📚 Constantly learning and building projects with the latest tech stack<br>
-  🤝 Open to collaborating on <b>open-source & impactful projects</b>
-</p>
-
----
-
-<h2>🛠 Tech Stack</h2>
-
-### 🌐 Frontend  
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/FramerMotion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
-
-### ⚙️ Backend  
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-
-### 🐍 Python & Data  
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white" />
-
-### 🧩 Tools & Others  
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" />
+</div>
 
 ---
 
-<h2>📊 GitHub Stats</h2>
+# <div align="center">📊 GitHub Stats</div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=hemanthscode&show_icons=true&theme=radical&hide_border=true" height="165" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hemanthscode&theme=radical&hide_border=true" height="165" alt="GitHub Streak" />
+<div align="center">
+
+| **Profile Insights** | **Language Usage** |
+|-----------------------|--------------------|
+| <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hemanthscode&theme=default" alt="Profile Details" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemanthscode&layout=donut&theme=default&hide_border=false" alt="Top Languages" /> |
+
+| **Overall Stats** | **Streaks** |
+|------------------|-------------|
+| <img src="https://github-readme-stats.vercel.app/api?username=hemanthscode&show_icons=true&theme=default&hide_border=false" alt="Stats" /> | <img src="https://github-readme-streak-stats.herokuapp.com?user=hemanthscode&theme=default&hide_border=false" alt="Streak Stats" /> |
+
+</div>
 
 ---
 
-<p><b>⭐ If you like my work, consider giving my repositories a star!</b></p>
-<p><sub>Made with ❤️ and lots of ☕ by <b>Hemanth Sayimpu</b></sub></p>
-<img src="https://img.shields.io/github/last-commit/hemanthscode/hemanthscode?style=flat-square&color=00d9ff" alt="Last Updated" />
+# <div align="center">🌐 Connect with Me</div>
 
+<div align="center">
+  <a href="https://github.com/hemanthscode"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/hemanthcodes/"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:hemanths7.dev@gmail.com"><img src="https://img.shields.io/badge/Email-d14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
