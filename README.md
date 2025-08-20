@@ -11,13 +11,15 @@
 
 | **Category** | **Technologies** |
 |--------------|------------------|
-| **Frontend** | <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb" /> <img src="https://img.shields.io/badge/Tailwind-0ea5e9?style=for-the-badge&logo=tailwindcss&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Vite-646cff?style=for-the-badge&logo=vite&logoColor=white" /> |
-| **Backend** | <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white" /> |
-| **Security & Auth** | <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" /> <img src="https://img.shields.io/badge/bcryptjs-3381FF?style=for-the-badge&logo=lock&logoColor=white" /> <img src="https://img.shields.io/badge/Helmet.js-4b5563?style=for-the-badge&logo=helmet&logoColor=white" /> |
-| **Data & Utilities** | <img src="https://img.shields.io/badge/Date--Fns-FF5A5F?style=for-the-badge&logo=javascript&logoColor=white" /> <img src="https://img.shields.io/badge/Zustand-18181b?style=for-the-badge&logo=zustand&logoColor=white" /> <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" /> |
-| **Tools** | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> |
+| **Core Languages** | <img src="https://img.shields.io/badge/JavaScript-ES6+-f7df1e?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white" /> |
+| **Frontend** | <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb" /> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/TailwindCSS-06b6d4?style=for-the-badge&logo=tailwindcss&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-7952b3?style=for-the-badge&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/Framer_Motion-0055ff?style=for-the-badge&logo=framer&logoColor=white" /> <img src="https://img.shields.io/badge/Responsive_Design-ff7f50?style=for-the-badge&logo=responsivedesign&logoColor=white" /> |
+| **Backend** | <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/RESTful_APIs-ff6f00?style=for-the-badge&logo=api&logoColor=white" /> <img src="https://img.shields.io/badge/Microservices-00c7b7?style=for-the-badge&logo=microgenetics&logoColor=white" /> |
+| **Database** | <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Schema_Design-ff9800?style=for-the-badge&logo=databricks&logoColor=white" /> |
+| **Data Science** | <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Scikit--learn-f7931e?style=for-the-badge&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white" /> <img src="https://img.shields.io/badge/Data_Visualization-4285f4?style=for-the-badge&logo=datadog&logoColor=white" /> |
+| **DevOps & Tools** | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-ff6c37?style=for-the-badge&logo=postman&logoColor=white" /> |
 
 </div>
+
 
 ---
 
@@ -40,7 +42,20 @@
 # <div align="center">🌐 Connect with Me</div>
 
 <div align="center">
-  <a href="https://github.com/hemanthscode"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/hemanthcodes/"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:hemanths7.dev@gmail.com"><img src="https://img.shields.io/badge/Email-d14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/hemanthcodes/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedIn&logoColor=white" />
+  </a>
+  <a href="mailto:hemanths7.dev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-d14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/hemanthsayimpu/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@hemanths7.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  <a href="https://x.com/hemanthscode" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
 </div>
+
