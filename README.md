@@ -20,7 +20,6 @@
 
 </div>
 
-
 ---
 
 # <div align="center">📊 GitHub Stats</div>
@@ -29,12 +28,17 @@
 
 | **Profile Insights** | **Language Usage** |
 |-----------------------|--------------------|
-| <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hemanthscode&theme=default" alt="Profile Details" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemanthscode&layout=donut&theme=default&hide_border=false" alt="Top Languages" /> |
+| <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hemanthscode&theme=default&cache_seconds=1800" alt="Profile Details" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemanthscode&layout=donut&theme=default&hide_border=false&cache_seconds=1800&include_all_commits=true&count_private=true" alt="Top Languages" /> |
 
 | **Overall Stats** | **Streaks** |
 |------------------|-------------|
-| <img src="https://github-readme-stats.vercel.app/api?username=hemanthscode&show_icons=true&theme=default&hide_border=false" alt="Stats" /> | <img src="https://github-readme-streak-stats.herokuapp.com?user=hemanthscode&theme=default&hide_border=false" alt="Streak Stats" /> |
+| <img src="https://github-readme-stats.vercel.app/api?username=hemanthscode&show_icons=true&theme=default&hide_border=false&cache_seconds=1800&include_all_commits=true&count_private=true" alt="Stats" /> | <img src="https://github-readme-streak-stats.herokuapp.com?user=hemanthscode&theme=default&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="Streak Stats" /> |
 
+</div>
+
+<!-- Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hemanthscode&theme=github-compact&hide_border=true&area=true" alt="GitHub Activity Graph" />
 </div>
 
 ---
@@ -59,3 +63,8 @@
   </a>
 </div>
 
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=hemanthscode&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
